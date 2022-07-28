@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Starter-project-with-api/static/css/main.f3a91118.css",
+    "main.js": "/Starter-project-with-api/static/js/main.d4b7f00e.js",
+    "index.html": "/Starter-project-with-api/index.html",
+    "main.f3a91118.css.map": "/Starter-project-with-api/static/css/main.f3a91118.css.map",
+    "main.d4b7f00e.js.map": "/Starter-project-with-api/static/js/main.d4b7f00e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3a91118.css",
+    "static/js/main.d4b7f00e.js"
+  ]
+}
