@@ -3,7 +3,8 @@ import {Movies} from '../components/movies'
 import {Preloader} from '../components/preloader'
 import {Search} from '../components/search'
 
-const API_KEY = process.env.REACT_APP__API_KEY;
+
+const API_KEY = process.env.REACT_APP__API_KEY
 
  
 class Main extends React.Component {
