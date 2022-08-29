@@ -25,6 +25,7 @@ const Main =()=> {
             console.log(err);
             setLoading(false)
             });
+            
     };
 
     
@@ -39,7 +40,9 @@ const Main =()=> {
                 console.log(err);
                 setLoading(false)
             });
+           
        }, [])
+       
 
         return (
             <main className="container content">
@@ -50,7 +53,8 @@ const Main =()=> {
                         
                         <Movies movies={movies} />)}
             </main>
+            
         );
     
 }
-export {Main}
+export {Main, API_KEY}
